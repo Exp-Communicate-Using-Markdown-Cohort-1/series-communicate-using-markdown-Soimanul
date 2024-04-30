@@ -9,3 +9,8 @@ int main() {
   printf("Hello Wolrd!");
   return 0;
 }
+
+-[x] Do text manipulation from markdown intro
+-[x] Do image manipulation from markdown intro
+-[x] Do code snippetd from markdown intro
+-[] Do checklist from markdown intro
